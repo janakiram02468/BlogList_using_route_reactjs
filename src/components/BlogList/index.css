@@ -1,0 +1,7 @@
+/* Write your CSS code here */
+.blog-list {
+  list-style: none;
+  padding-left: 0;
+  width: 90%;
+  margin: auto;
+}
